@@ -42,7 +42,10 @@ This project implements a multi-stage pipeline for ID card processing:
   - The extracted data will be used for model training and validation
 
 ## 🛠️ Installation Requirements
-
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/AmiraAmr99/ENDI_text_lines_extraction.git
+   ```
 ### Prerequisites
 - Python 3.8 or higher
 - CUDA-compatible GPU (recommended for optimal performance)
